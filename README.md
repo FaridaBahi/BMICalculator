@@ -1,6 +1,6 @@
 # BMI Calculator
 
-Flutter project made to calculate bodey mass index by using weight and height while taking age and gender into concideration.
+Flutter project made to calculate body mass index by using weight and height while taking age and gender into consideration.
 
 In first/input screen you can choose your gender, adjust the height slider, and increse or decrease the weight and age to fit yours.
 
